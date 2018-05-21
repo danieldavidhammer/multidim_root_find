@@ -1,6 +1,6 @@
 project (multidim_root_find)
 
-SET(CMAKE_C_COMPILER /bin/clang)
+SET(CMAKE_C_COMPILER /usr/bin/clang)
 
 cmake_minimum_required (VERSION 2.6)
 find_package(GSL REQUIRED)
